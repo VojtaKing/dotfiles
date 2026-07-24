@@ -1,0 +1,13 @@
+# ignoruj všechno
+*
+
+# povol tyto složky
+!.helix
+!.hypr
+!.quickshell
+!.DankMaterialShell
+
+# povol konkrétní soubory
+!.gitignore
+README.md
+LICENSE
