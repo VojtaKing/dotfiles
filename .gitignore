@@ -1,11 +1,18 @@
 # ignoruj všechno
 *
 
-# povol tyto složky
-!.helix
-!.hypr
-!.quickshell
-!.DankMaterialShell
+# povol složky a jejich obsah
+!.helix/
+!.helix/**
+
+!.hypr/
+!.hypr/**
+
+!.quickshell/
+!.quickshell/**
+
+!.DankMaterialShell/
+!.DankMaterialShell/**
 
 # povol konkrétní soubory
 !.gitignore
